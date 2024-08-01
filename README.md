@@ -1,8 +1,10 @@
 **What The project does:**
 . Chromagram mainly used for music application. 
-. Here, we are demonstrating to apply on non-musical application like sound detection of drone vs. noise
+. Here, we are demonstrating to apply on non-musical application like sound detection of drone vs. noise.
+
 **Why the project is useful: 
 . It's a simple binary classification using SVM and it is computationally effective.**
+
 **How users can get started with the project**
 . Use Public or Private data and run Chroma_Features_Creation.py. It will create 12 chromagram features for each .wav file. 
 . To find top features by running through Top_Features_Selection.py file. This will give the score and which will help to select top N features.
