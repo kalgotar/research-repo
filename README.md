@@ -1,4 +1,4 @@
-**What The project does:\n
+**What The project does:
 . Chromagram mainly used for music application. 
 . Here, we are demonstrating to apply on non-musical application like sound detection of drone vs. noise.
 
