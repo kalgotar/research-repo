@@ -11,4 +11,7 @@
 . To build and test the model using either top features or using the all features and pass into the Binary_Classification_Models.py. 
 . Hypothesis testing using Hypothesis_Testing.py to confirm why chromagram works with non-musical application. For that created two csv files drone_music_data.csv and noise_music_data.csv, 
   passed one by one through the Hypothesis_Testing.py file. From AUC result, it shows that why Chromagram works for non-musical application as well.
+. To work with CNN, we need image files. convert_audio_to_image.py file willconvert audio file to image.
+. To build and test the model with the generated images using image_processing_using_CNN.py file.
+. To compare the performance of GNN against SVM, gnn_classification.py file helps to train and test the data. To build GNN, we use the same chromagram features as we used for binary_classification.
 
